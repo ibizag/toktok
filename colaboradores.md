@@ -3,4 +3,6 @@
 * Andrea Castillo
 * Monica Garcia
 * Andres Gayten
-* Sergio mayer
+* Sergio Mayer
+* Luisa Mendez
+* Oscar Pollito
